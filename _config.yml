@@ -2,14 +2,13 @@
 title: TibCERT
 email: dawapaljor@tibetaction.net
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Strengthening security and building technical excellence of Tibetan organizations through collaboration and knowledge sharing."
+keywords: "TibCERT,CERT,Digital Security,Tibet Action"
 skills: "Strengthening security and building technical excellence of Tibetan organizations through collaboration and knowledge sharing"
 meta_author: LastName FirstName
 
 # Google webmaster tools
-google_verify:
-
+tracking_code: UA-69420725-9
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
@@ -32,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: TibCERT
   location: Location
   social: Around the Web
   credits: Credits
@@ -56,7 +55,7 @@ address:
   - line: Dharamsala, IND 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: ''
 
 # Build settings
 markdown: kramdown
