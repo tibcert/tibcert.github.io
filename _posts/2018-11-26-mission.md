@@ -1,0 +1,33 @@
+---
+title: TibCERT Mission
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: mission.png
+alt: mission-image
+category: mission
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia eveniet in earum, excepturi exercitationem animi eum consectetur deserunt iste fuga, odit praesentium eligendi aut quo. Facilis quasi, ducimus dolore et!
+---
+<ul class="list-group">
+  <li class="list-group-item">
+  	<h3>
+  		Create and sustain a platform for long term collaboration between stakeholders in the Tibetan community on digital security issues and needs
+  	</h3>
+  </li>
+   <li class="list-group-item">
+  	<h3>
+  		Deepen connections and develop a formal process for collaboration between Tibetans and global malware and cybersecurity researchers to ensure mutually beneficial sharing
+  	</h3>
+  </li>
+  <li class="list-group-item">
+  	<h3>
+  		Increase the resources available to Tibetans to defend against and mitigate online attacks by regularly publicizing information and recommendations on threats facing the community
+  	</h3>
+  </li>
+  <li class="list-group-item">
+  	<h3>
+  		Help Tibetans in Tibet circumvent censorship and surveillance by providing regular, detailed information and analysis, as well as potential solutions.
+  	</h3>
+  </li>
+
+</ul>
