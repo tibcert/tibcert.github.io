@@ -196,7 +196,7 @@ section.success {
     }
 }
 #portfolio{
-    background: #{{site.color.darker-white}};
+    background: #{{site.color.secondary}};
 }
 #portfolio .portfolio-item {
     right: 0;
@@ -247,6 +247,7 @@ section.success {
 
 #portfolio * {
     z-index: 2;
+    color:white;
 }
 
 @media(min-width:767px) {
