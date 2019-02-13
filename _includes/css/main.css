@@ -469,6 +469,7 @@ footer .footer-below {
 .modal {color:black;}
 
 .col-lg-8 p{font-size:30px;}
+.modal-body p{font-size: 16px}
 td[class="red"]{background:red;color:white;}
 td[class="green"]{background:green;color:white;}
 td[class="amber"]{background:#fbd563;color:white;}
