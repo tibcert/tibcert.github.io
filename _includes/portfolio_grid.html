@@ -5,13 +5,14 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>Who We Are?</h2>
-                    <hr class="star-light">
+                     <img src="/img/pata2-green.png" alt="">
                     <br><br><br>
                 </div>
             </div>
             <div class="row">
                 {% for post in site.posts %}
-                    <div class="col-sm-4 portfolio-item">
+                {% if post.category contains "portfolio" %}
+                    <div class="col-sm-6 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
@@ -21,6 +22,7 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
+                    {% endif %}
                 {% endfor %}
             </div>
         </div>

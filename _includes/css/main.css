@@ -458,14 +458,42 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.services div p{font-size:20px;
+                 padding:20px 10px;
+                 margin:10px;
+                 border-bottom:2px solid #62c2af;
+}
+.services div:hover p{color:#1f806d}
+#tlp{background:#1f806d;}
+.modal {color:black;}
+
+.col-lg-8 p{font-size:30px;}
+td[class="red"]{background:red;color:white;}
+td[class="green"]{background:green;color:white;}
+td[class="amber"]{background:#fbd563;color:white;}
+td[class="white"]{background:#a4a4a4;color:white;}
+td img{width:60px;}
+td{font-size: 13px}
+.red,.amber,.green,.white{font-weight: bolder}
+.red{color:red;}
+.amber{color:#fbd563;}
+.green{color:#46be9f;}
+.white{color:;}
+.box-shape1{ }
+/*
+
+#tlp-content{display: inline-grid;
+grid-template-columns:50% 30%;
+}
+*/
 .box-shape1{margin: 20px auto; border-left:8px solid #18bc9c;}
 .box-shape1 p{font-size:25px;}
 
-.services div p{font-size: 30px;
-                 padding:20px 15px;
-                 margin:10px;
-                 border:2px solid white;
+header{background-image: url(img/logo-sm-nocolor.png);
+background-attachment: fixed;
 }
-.services div:hover p{color:#18bc9c;background:white;}
-#response{background:#1f806d;}
+
+
+
 
