@@ -1,14 +1,14 @@
 # Site settings
 title: TibCERT
-email: dawapaljor@tibetaction.net
-url: https://example.github.io
+email: info@tibcert.org
+url: https://tibcert.github.io
 description: "Strengthening security and building technical excellence of Tibetan organizations through collaboration and knowledge sharing."
 keywords: "TibCERT,CERT,Digital Security,Tibet Action"
 skills: "Strengthening security and building technical excellence of Tibetan organizations through collaboration and knowledge sharing"
 meta_author: LastName FirstName
 
 # Google webmaster tools
-tracking_code: UA-69420725-9
+tracking_code: 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
@@ -41,20 +41,16 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/
+    url: http://twitter.com/tibcert
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url:  http://facebook.com/tibcert
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/TibCERT
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: TibCERT
-  - line: Dharamsala, IND 
+  - line: Tibetan CERT
+  - line: Dharamsala, INDIA 
 
 # Credits content
 credits: ''
