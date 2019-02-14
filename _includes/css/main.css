@@ -459,12 +459,7 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
-.services div p{font-size:20px;
-                 padding:20px 10px;
-                 margin:10px;
-                 border-bottom:2px solid #62c2af;
-}
-.services div:hover p{color:#1f806d}
+
 #tlp{background:#1f806d;}
 .modal {color:black;}
 
@@ -498,3 +493,12 @@ background-attachment: fixed;
 
 
 
+.services .service-item p{font-size:20px;
+                 padding:20px 10px;
+                 margin:10px;
+                 border:3px solid #62c2af;
+                 transition: .5s;
+}
+.services p{box-shadow:0px 2px 4px #1f806d;}
+.services div:hover p{color:#2c3e50}
+.services p:hover{background:white}
