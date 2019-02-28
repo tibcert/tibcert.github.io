@@ -8,7 +8,7 @@ skills: "Strengthening security and building technical excellence of Tibetan org
 meta_author: LastName FirstName
 
 # Google webmaster tools
-tracking_code: UA-69420725-10
+google_tracking_code: UA-69420725-10
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
