@@ -4,6 +4,15 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+@font-face {
+  font-family: 'yigsu5';
+  src: url('fonts/MonlamUniOuChan5.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'yigsu2';
+  src: url('fonts/MonlamUniOuChan2.ttf')  format('truetype');
+}
+
 body {
     overflow-x: hidden;
 }
@@ -505,3 +514,32 @@ background-attachment: fixed;
 code{}
 pre{text-align:left}
 .modal-body p{text-align:left;}
+
+
+/*------------------- Tibetan ---------- */
+html[lang="bo"] h1,
+html[lang="bo"] h2,
+html[lang="bo"] h3,
+html[lang="bo"] h4,
+html[lang="bo"] h5,
+html[lang="bo"] h6 {
+    text-transform: uppercase;
+    font-family: yigsu5;
+    font-weight: normal;
+}
+html[lang="bo"] .navbar{
+    font-family: yigsu5;
+    font-weight: normal;
+}
+html[lang="bo"] .btn-social{
+    font-family:FontAwesome;
+}
+html[lang="bo"] .navbar-brand{
+   font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif; 
+   font-weight: 700;
+}
+
+html[lang="bo"] body{
+font-family: yigsu2;
+line-height: 40px
+}

@@ -1,0 +1,31 @@
+<!-- Contact Section -->
+<section id="contact">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2 id="contact" name="contact">འབྲེལ་གཏུག</h2>
+				 <img src="/img/pata2-white.png" alt="">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2 text-center">
+			<center>
+				<p>གློག་འཕྲིན་ཡིག་ཟམ།:</p>
+			</center>
+			<div class="col-lg-12 text-center">
+
+				<p><span class="glyphicon glyphicon-envelope"></span> info@tibcert.org</p>
+		    {% for post in site.posts %}
+		        {% if post.category contains "pgp" %}
+		            <a type="button" class="btn btn-primary btn-md " href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+		            PGP Key
+		             </a>
+		           <br><br>         
+		        {% endif %}
+		    {% endfor %}
+			</div>
+		</div>
+		</div>
+		
+	</div>
+</section>

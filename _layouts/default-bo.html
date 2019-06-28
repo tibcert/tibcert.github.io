@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="bo">
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav-bo.html %}
+    {% include home-bo.html %}
+    {% include portfolio_grid-bo.html %}
+    {% include services-bo.html %}
+    {% include membership-bo.html %}
+    {% include tlp-bo.html %}
+    {% include about-bo.html %}
+    
+    {% if site.contact == "static" %}
+    {% include contact_static-bo.html %}
+    {% elsif site.contact == "disqus" %}
+    {% include contact_disqus-bo.html %}
+    {% else %}
+    {% include contact.html %}
+    {% endif %}
+
+    {% include footer-bo.html %}
+    {% include modals.html %}
+    {% include js.html %}
+    </body>
+</html>

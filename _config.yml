@@ -5,6 +5,7 @@ url: https://tibcert.github.io
 description: "Strengthening security and building technical excellence of Tibetan organizations through collaboration and knowledge sharing."
 keywords: "TibCERT,CERT,Digital Security,Tibet Action"
 skills: "Strengthening security and building technical excellence of Tibetan organizations through collaboration and knowledge sharing"
+skillsBo: "མཉམ་འབྲེལ་དང་ཤེས་བྱ་བརྒྱུད་སྤེལ་གྱི་ལམ་ཁ་རྒྱུད་དེ། བོད་པའི་ཚོགས་པ་སྒྲིག་འཛུགས་ཁག་གི་འཕྲུལ་རིགས་ཀྱི་ནུས་པ་བསྐྱེད་བསྲིང་དང་བདེ་འཇགས་སྲ་བརྟན་བཟོ་རྒྱུ་དེ་ཡིན། "
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -35,6 +36,7 @@ color:
 footer:
   copyright: TibCERT
   location: Location
+  locationBo: ས་གནས།
   social: Around the Web
   credits: Credits
 
@@ -51,10 +53,12 @@ social:
 address:
   - line: Tibetan Computer Emergency Readiness Team
   - line: Dharamsala, INDIA 
-
+addressBo:
+  - line: བོད་ཀྱི་གློག་ཀླད་ཛ་དྲག་གྲ་སྒྲིག་ཚན་ཁག(TIBCERT)
+  - line: རྒྱ་གར་ངྷ་རམ་ས་ལ། 
 # Credits content
 credits: ''
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+
