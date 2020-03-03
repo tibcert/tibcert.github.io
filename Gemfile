@@ -7,7 +7,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.9.2"
   gem "jemoji", "~> 0.8"
   gem "bundler", "~> 1.12"
-  gem 'rake', '~> 11.2', '>= 11.2.2'
+  gem 'rake', '~> 13.0'
   gem 'jekyll-gist', '~> 1.5'
   gem 'nokogiri', '~> 1.8', '>= 1.8.5'
   gem 'octokit', '~> 4.13'
