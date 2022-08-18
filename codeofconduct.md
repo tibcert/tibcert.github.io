@@ -32,7 +32,7 @@ If someone makes you or anyone else feel unsafe or unwelcome in any TibCERT Onli
 
 Your concerns will be respectfully heard by the Code of Conduct Incident Response team. If your concern    involves any TibCERT Online Community staff members, they will recuse themselves. The designated representatives are 
 
-Dorjee Phuntsok, TibCERT Response Manager
+Dorjee Phuntsok, TibCERT Response Manager  
 Gemphel Norsang, TibCERT Response Coordinator  
 
 <br>

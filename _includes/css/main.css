@@ -546,10 +546,31 @@ line-height: 40px
 .container-page{
     margin-top:50px;
 }
-.container-page p{
+.container-page p, table a, .table a{
     word-wrap: break-word;
 }
 .container-page li{
     font-size: 19px;
     line-height: 30px;
+}
+.img-thumbnail, .img-fluid{
+    width:100px;
+}
+.external-links a{
+    color:white;
+    text-align: left;
+} 
+.external-links li{
+    text-align: right;
+    list-style-type: none
+}
+@media(max-width:450px) {
+ table p{font-size: 12px}  
+ table,.table{
+    max-width: 300px
+ }
+ .external-links li{
+    text-align: center;
+    list-style-type: none
+}
 }
