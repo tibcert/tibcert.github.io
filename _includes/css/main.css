@@ -546,6 +546,9 @@ line-height: 40px
 .container-page{
     margin-top:50px;
 }
+.container-page p{
+    word-wrap: break-word;
+}
 .container-page li{
     font-size: 19px;
     line-height: 30px;

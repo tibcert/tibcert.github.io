@@ -38,13 +38,12 @@ Gemphel Norsang, TibCERT Response Coordinator
 <br>
 #### This​ ​code​ ​of​ ​conduct​ ​is​ ​derived​ ​from:
 
-OTF Code of Conduct -   [https://we.opentech.fund/t/otf-code-of-conduct/585](https://we.opentech.fund/t/otf-code-of-conduct/585) 
+OTF Code of Conduct-[https://we.opentech.fund/t/otf-code-of-conduct/585](https://we.opentech.fund/t/otf-code-of-conduct/585)  
 
+Internet Freedom Festival Code of Conduct-[https://www.internetfreedomfestival.org/wiki/index.php/Code_of_Conduct](https://www.internetfreedomfestival.org/wiki/index.php/Code_of_Conduct)  
 
-Internet Freedom Festival Code of Conduct - [https://www.internetfreedomfestival.org/wiki/index.php/Code_of_Conduct](https://www.internetfreedomfestival.org/wiki/index.php/Code_of_Conduct)
+The Geek Feminism example conference anti-harassment policy-[http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)  
 
-
-The Geek Feminism example conference anti-harassment policy - [http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 
 
 `` Note: `` This Code of Conduct may be subject to change in accordance with situations.

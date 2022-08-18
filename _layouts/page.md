@@ -2,7 +2,7 @@
 <html lang="en">
     {% include head.html %}
     <body id="page-top" class="index">
-    {% include nav.html %}
+    {% include nav-page.md %}
  <!--  Section -->
     <section class="" id="membership">
         <div class="container container-page">
@@ -12,7 +12,7 @@
                     <img src="/img/pata2-green.png" alt="">
                 </div>
             </div>
-            <div class="row" id="">     
+            <div class="col-lg-12" id="">     
                 {{ content }} 
             </div>
             <div class="row">
