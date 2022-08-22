@@ -52,7 +52,7 @@ A volunteer based community platform under TibCERT, which is built on the struct
       		</td>
       		<td>
       			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/SamdupChoephel-TCRC.jpeg" alt="">
-      			<p>Samdup Choephe</p>
+      			<p>Samdup Choephel</p>
       			<i>Tibetan Computer Resource Center (TCRC) - Malware Analyst</i>
       		</td>
       	</tr>

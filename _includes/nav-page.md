@@ -24,23 +24,30 @@
                     <li class="page-scroll">
                         <a href="{{site.url}}#services">Services</a>
                     </li>
+                     <li>
+                        <a href="{{site.baseurl}}/response-hub">Response Hub</a>
+                    </li>
                     <li class="page-scroll">
                         <a href="{{site.url}}#membership">Membership</a>
                     </li>
                     <li class="page-scroll">
                         <a href="{{site.url}}#tlp">TLP</a>
                     </li>
-                     <li class="page-scroll">
-                        <a href="https://blog.tibcert.org">Blog</a>
+                     <li>
+                      <div class="dropdown">
+                           <button class="dropbtn">RESOURCES<i class="fa fa-caret-down"></i></button>
+                           <div class="dropdown-content">
+                            <a  href="https://blog.tibcert.org">Blog</a>
+                            <a href="https://learn.tibcert.org">Learn</a>
+                           </div>
+                        </div>
                     </li>
-                    <li class="page-scroll">
-                        <a href="https://learn.tibcert.org">Learn</a>
-                    </li>
+                     </li>
                     <li class="page-scroll">
                         <a href="{{site.url}}#about">About</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="{{site.url}}#contact">Contact Us</a>
+                        <a href="{{site.url}}#contact">Contact</a>
                     </li>
                     <li>
                         <a href="index-bo.html"><img src="/img/tibet-flag.jpg" width="30"></a>
