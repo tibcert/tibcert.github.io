@@ -3,14 +3,20 @@ layout: page
 title: Response Hub
 ---
 
+
+
 ### What is a Response Hub?
 A volunteer based community platform under TibCERT, which is built on the structure of **Learn, Share, Network** and **Support**. An opportunity to address key digital security and tech challenges in our Tibetan community through meetings, discussions and brainstorming sessions. The goal is to finally come up with possible solutions to those challenges and to work collaboratively to implement those solutions.
+
+
+ <img  class="img-responsive" src="{{site.baseurl}}/img/pictures/responsehub.jpg" >
 
 ### What is a Meetup ?
 
 - A meetup is usually a 2 hr casual meeting of our hub members at a suitable spot (cafe, office, hall) at a suitable time which would be decided and informed by the respective regional DSAs, at least a week in advance. Finalizing a time for the meetups are done in accordance to the suggestions by the members themselves and deciding a majority favor. Meetup is a time where hub members led by our respective regional DSA’s will discuss key digital security and tech issues in the community. A meeting focused on finding ways to resolve these issues by brainstorming ideas and taking basic responsibilities in the implementation of the solutions discussed.  
 - A meetup is a 2 hr casual meeting held once in a month, usually on weekends among our hub members. Meetups are focused on bringing an informal, friendly and open atmosphere to get to know each other, discuss tech and digital security challenges in the community to bring up creative solutions and approaches. The “location” of the meetup could range from cafes, halls and our TAI office based on the technical requirements and number of hub members joining for a specific meetup. The “time and day” of a meetup is not fixed everytime and could vary with suggestions from our hub members as well as the TibCERT team.
 
+ <img  class="img-responsive" src="{{site.baseurl}}/img/pictures/meetup.jpg" >
 ### Who can join us?
 - We believe that varying skills, experiences and background of interested individuals play an integral part of a successful Response hub team . Those willing to join us don't necessarily need to have a good  technical knowledge about computers or digital security. Having technical experiences and skills is great but we believe it is of secondary importance, which could be developed through time provided that one is passionate to learn, share, come up with new ideas and collaboratively implement the solutions while moving forward as a team. 
 
@@ -179,7 +185,7 @@ A volunteer based community platform under TibCERT, which is built on the struct
       		<td>
       			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/mundgod/tenzin-gawa.jpeg" alt="">
       			<p>Gen Tenzin Gawa</p>
-      			<i>Monk, Drepung Gomang Monastery</i>
+      			<i>Drepung Gomang</i>
       		</td>
       		<td>
       			<img class="img-fluid img-thumbnail"  src="{{site.baseurl}}/img/pictures/mundgod/lhundup-dorjee.jpeg" alt="">
