@@ -91,34 +91,34 @@ A volunteer based community platform under TibCERT, which is built on the struct
       <table class="table">
          <tr>
       		<td>
-      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/mundgod/" alt="">
+      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/bylakuppe/gen-kalsang-thardoe.jpg" alt="">
       			<p>Gen.Kelsang Thardoe</p>
       			<i>Sera Jeh Rigzoe Chenmo Manager (Sera Jeh Monastery)</i>
       		</td>
       		<td>
-      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/mundgod/" alt="">
+      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/bylakuppe/gen-ngawang-topden.jpg" alt="">
       			<p>Geshay. Ngawang Topden</p>
       			<i>Sera Jeh Library Manager (Sera Jeh Monastery)</i>
       		</td>
       		<td>
-      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/mundgod/" alt="">
+      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/bylakuppe/gen-namgyal.jpg" alt="">
       			<p>Gen. Namgyal</p>
       			<i>Cyber Cafe Incharge + RC & IC helper (Sera Lachi Monastery)</i>
       		</td>
       		<td>
-      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/mundgod/" alt="">
+      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/bylakuppe/gen-gyaltsen.jpg" alt="">
       			<p>Gen. Gyaltsen</p>
       			<i>Sera Mey Library Senior Staff (Sera Mey Monastery)</i>
       		</td>
       	</tr>
       	<tr>
       		<td>
-      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/mundgod/" alt="">
+      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/bylakuppe/gen-jampa-dhamey.jpg" alt="">
       			<p>Gen. Jampa Dhamey</p>
       			<i>Sera Mey Library Staff (Sera Mey Monastery)</i>
       		</td>
       		<td>
-      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/mundgod/" alt="">
+      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/bylakuppe/gen-phuche.jpg" alt="">
       			<p>Gen.Phurbu</p>
       			<i>Cashier (SOS TCV School Main Office)</i>
       		</td>
@@ -212,8 +212,8 @@ A volunteer based community platform under TibCERT, which is built on the struct
     		<p>Panel discussion on “The impact of social media in our community” - Disinformation and misinformation (covid-19), Tibetan General Election, social media fake accounts, identity theft and cyber bully/harassment. <br> We invited speakers on the panel discussion who have different professional backgrounds such as News media, Tibetan policy, Gender activism and Medical and Healthcare. <br> The audience for the panel discussion were representatives of different organizations in and around Dharamsala.</p>
 		</td>
 		<td>
-			<a href="https://fb.watch/3wYb-bsEiw/">https://fb.watch/3wYb-bsEiw/</a>
-			<a href="https://docs.google.com/document/d/1oOfvekIwjNBv7O4S1WirIkD5UZz4ApvfP0Hqhtl9D5k/edit">https://docs.google.com/document/d/1oOfvekIwjNBv7O4S1WirIkD5UZz4ApvfP0Hqhtl9D5k/edit</a>
+			<li><a href="https://fb.watch/3wYb-bsEiw/">Impact of Social Media in Community</a></li>
+			<li><a href="https://docs.google.com/document/d/1oOfvekIwjNBv7O4S1WirIkD5UZz4ApvfP0Hqhtl9D5k/edit">Panel Discussion</a></li>
 		</td>
     </tr>
     <tr>
@@ -222,7 +222,7 @@ A volunteer based community platform under TibCERT, which is built on the struct
     		<p>We have made a Tibetan Glossary Database. This database contains most of the technical terms and their translation in Tibetan. So whenever you don’t understand a term on the web, you can always refer to the glossary..</p>
 		</td>
 		<td>
-			<a href="https://docs.google.com/spreadsheets/d/1sKjUfABDetRPy20-qYyvQ1teNqBuShBAAKk6QxGWgNA/edit#gid=0">https://docs.google.com/spreadsheets/d/1sKjUfABDetRPy20-qYyvQ1teNqBuShBAAKk6QxGWgNA/edit#gid=0</a>
+			<a href="https://docs.google.com/spreadsheets/d/1sKjUfABDetRPy20-qYyvQ1teNqBuShBAAKk6QxGWgNA/edit#gid=0">Tibetan Glossary</a>
 		</td>
     </tr>
     <tr>
@@ -232,7 +232,7 @@ A volunteer based community platform under TibCERT, which is built on the struct
     		</p>
 		</td>
 		<td>
-			<a href="https://docs.google.com/document/d/1e3od5KCYTJVWy31iMfT_DyGhvaCcQTX1iag0tIgZrOE/edit">https://docs.google.com/document/d/1e3od5KCYTJVWy31iMfT_DyGhvaCcQTX1iag0tIgZrOE/edit</a>
+			<p><a href="https://docs.google.com/document/d/1e3od5KCYTJVWy31iMfT_DyGhvaCcQTX1iag0tIgZrOE/edit">link</a></p>
 		</td>
     </tr>
     <tr>
@@ -242,8 +242,8 @@ A volunteer based community platform under TibCERT, which is built on the struct
     		<p>2. We did training on how to update various devices like pc, mac, android and iOS.</p>
 		</td>
 		<td>
-			<a href="https://docs.google.com/document/d/1yDL8yUwKOzZy9ghMgC9jOM9tOF493aVF/edit">https://docs.google.com/document/d/1yDL8yUwKOzZy9ghMgC9jOM9tOF493aVF/edit</a>
-			<a href=""></a>
+			<p><a href="https://docs.google.com/document/d/1yDL8yUwKOzZy9ghMgC9jOM9tOF493aVF/edit">link</a></p>
+		
 		</td>
     </tr>
     <tr>
@@ -253,8 +253,7 @@ A volunteer based community platform under TibCERT, which is built on the struct
     		<p>2. Short awareness skit video on the importance of Digital Security Policy</p>
 		</td>
 		<td>
-			<a href="https://docs.google.com/document/d/1zGyjOsf8atJ9JlBSQsodmJQt8ET_BxxjKOWw3gIcaNA/edit">https://docs.google.com/document/d/1zGyjOsf8atJ9JlBSQsodmJQt8ET_BxxjKOWw3gIcaNA/edit</a>
-			<a href=""></a>
+			<p><a href="https://docs.google.com/document/d/1zGyjOsf8atJ9JlBSQsodmJQt8ET_BxxjKOWw3gIcaNA/edit">link</a> </p>
 		</td>
     </tr>
 
