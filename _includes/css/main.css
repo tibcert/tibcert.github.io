@@ -232,7 +232,8 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #{{ site.color.primary}};
+
 }
 
 @media(max-width:767px) {
@@ -296,7 +297,7 @@ section.success {
 
 #portfolio * {
     z-index: 2;
-    color:white;
+    color:#{{site.color.default-white}};
 }
 
 @media(min-width:767px) {
@@ -389,7 +390,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.secondary-dark }};
 }
 
 footer .footer-col {
@@ -509,7 +510,7 @@ footer .footer-below {
 }
 
 
-#tlp{background:#1f806d;}
+#tlp{background:#2c3e50;}
 .modal {color:black;}
 
 .col-lg-8 p{font-size:20px;}
@@ -532,7 +533,9 @@ td{font-size: 13px}
 grid-template-columns:50% 30%;
 }
 */
-.box-shape1{margin: 20px auto; border-left:8px solid #18bc9c;}
+.box-shape1{margin: 20px auto; 
+    border-left:8px solid #{{site.color.primary}};
+}
 .box-shape1 p{font-size:20px;}
 
 header{background-image: url(img/logo-sm-nocolor.png);
@@ -545,12 +548,12 @@ background-attachment: fixed;
 .services .service-item p{font-size:20px;
                  padding:20px 10px;
                  margin:10px;
-                 border:3px solid #62c2af;
-                 transition: .5s;
+                 background:#{{site.color.secondary}};
+                 border-left:10px solid #{{site.color.secondary-dark}};
+
 }
-.services p{box-shadow:0px 2px 4px #1f806d;}
-.services div:hover p{color:#2c3e50}
-.services p:hover{background:white}
+
+
 code{}
 pre{text-align:left}
 .modal-body p{text-align:left;}

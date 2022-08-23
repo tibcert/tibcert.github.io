@@ -228,7 +228,7 @@ A volunteer based community platform under TibCERT, which is built on the struct
     		<p>We have made a Tibetan Glossary Database. This database contains most of the technical terms and their translation in Tibetan. So whenever you don’t understand a term on the web, you can always refer to the glossary..</p>
 		</td>
 		<td>
-			<a href="https://docs.google.com/spreadsheets/d/1sKjUfABDetRPy20-qYyvQ1teNqBuShBAAKk6QxGWgNA/edit#gid=0">Tibetan Glossary</a>
+			<p><a href="https://docs.google.com/spreadsheets/d/1sKjUfABDetRPy20-qYyvQ1teNqBuShBAAKk6QxGWgNA/edit#gid=0">Tibetan Glossary</a></p>
 		</td>
     </tr>
     <tr>
