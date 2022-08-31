@@ -2,6 +2,9 @@
 layout: page
 title: TibCERT Online Community Code of Conduct
 ---
+<p style="text-align: right;"><a href="codeofconduct-bo.html">Read in Tibetan</a></p>
+<br>
+
 
  TibCERT online community is an online space where Tibetans can come together to share experiences towards creating a resilient digital security community. As such, we are committed to providing inclusive and harassment-free spaces, regardless of gender, race, ethnicity, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, or religion. Consequently, we do not tolerate harassment of any kind in our spaces, both online and in-person. 
 

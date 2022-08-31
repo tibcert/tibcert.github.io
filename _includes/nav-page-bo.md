@@ -19,20 +19,20 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#home">མདུན་ངོས།</a>
+                        <a href="index-bo.html#home">མདུན་ངོས།</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#services">ཞབས་ཞུ་ཁག</a>
+                        <a href="index-bo.html#services">ཞབས་ཞུ་ཁག</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#membership">ཚོགས་མིའི་ཆ་རྐྱེན་ཁག</a>
+                        <a href="index-bo.html#membership">ཚོགས་མིའི་ཆ་རྐྱེན་ཁག</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#tlp">འགྲིམ་འགྲུལ་གློག་གི་གྲོས་མཐུན།</a>
+                        <a href="index-bo.html#tlp">འགྲིམ་འགྲུལ་གློག་གི་གྲོས་མཐུན།</a>
                     </li>
-                    <li>
-                      <!--  <a href="#" class="page-scroll dropdown">ཐོན་ཁུངས།</a>  -->
-                        <div class="dropdown page-scroll">
+                     <li>
+                      <!--  <a href="#" class="page-scroll dropdown">Resources</a>  -->
+                        <div class="dropdown">
                            <button class="dropbtn">ཐོན་ཁུངས།<i class="fa fa-caret-down"></i></button>
                            <div class="dropdown-content">
                             <a  href="https://blog.tibcert.org">ཟིན་བྲིས།</a>
@@ -40,14 +40,15 @@
                            </div>
                         </div>
                     </li>
+                   
                     <li class="page-scroll">
-                        <a href="#about">ང་ཚོའི་སྐོར།</a>
+                        <a href="index-bo.html#about">ང་ཚོའི་སྐོར།</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#contact">འབྲེལ་གཏུགས།</a>
+                        <a href="index-bo.html#contact">འབྲེལ་གཏུགས།</a>
                     </li>
                     <li>
-                        <a href="index.html"><img src="/img/eng-flag.jpg" width="30"></a>
+                        <a href="{{site.baseurl}}index.html"><img src="/img/eng-flag.jpg" width="30"></a>
                     </li>
                 </ul>
             </div>
