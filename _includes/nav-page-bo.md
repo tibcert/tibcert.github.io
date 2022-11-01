@@ -22,7 +22,7 @@
                         <a href="index-bo.html#home">མདུན་ངོས།</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="index-bo.html#services">ཞབས་ཞུ་ཁག</a>
+                        <a href="index-bo.html#services">ཞབས་ཞུ་ཁག་</a>
                     </li>
                     <li class="page-scroll">
                         <a href="index-bo.html#membership">ཚོགས་མིའི་ཆ་རྐྱེན་ཁག</a>

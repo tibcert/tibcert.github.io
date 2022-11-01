@@ -56,18 +56,13 @@ A volunteer based community platform under TibCERT, which is built on the struct
       			<p>Ngawang Tashi</p>
       			<i>College Graduate</i>
       		</td>
-      		<td>
-      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/SamdupChoephel-TCRC.jpeg" alt="">
-      			<p>Samdup Choephel</p>
-      			<i>Tibetan Computer Resource Center (TCRC) - Malware Analyst</i>
-      		</td>
+      		  <td>
+            <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/Choedon-Drokmo.jpeg" alt="">
+            <p>Tenzin Choedon</p>
+            <i>Freelance</i>
+          </td>
       	</tr>
       	<tr>
-      		<td>
-      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/Choedon-Drokmo.jpeg" alt="">
-      			<p>Tenzin Choedon</p>
-      			<i>Drokmo</i>
-      		</td>
       		<td>
       			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/Nyeesang wangpo-TMAI.jpeg" alt="">
       			<p>Nyeesang Wangmo</p>
