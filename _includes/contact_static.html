@@ -9,21 +9,24 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2 text-center">
+				<br>
 			<center>
 				<p>E-Mail:</p>
 			</center>
-			<div class="col-lg-12 text-center">
+			<br>
 
-				<p><span class="glyphicon glyphicon-envelope"></span> info@tibcert.org</p>
 		    {% for post in site.posts %}
 		        {% if post.category contains "pgp" %}
+		        <div class="col-md-4 text-center">
+		        <p><span class="glyphicon glyphicon-envelope"></span>{{ post.title }}</p>
 		            <a type="button" class="btn btn-primary btn-md " href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
 		            PGP Key
 		             </a>
-		           <br><br>         
+		           <br><br>  
+		           	</div>       
 		        {% endif %}
 		    {% endfor %}
-			</div>
+		
 		</div>
 		</div>
 		
