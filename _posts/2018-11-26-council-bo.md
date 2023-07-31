@@ -1,7 +1,7 @@
 ---
 layout: default
 title: སློབ་སྟོན་ལྷན་ཁང་།
-modal-id: 6
+modal-id: 33
 date: 2014-07-16
 img: council-bo.png
 alt: image-alt

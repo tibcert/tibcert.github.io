@@ -1,7 +1,7 @@
 ---
 title: དམིགས་ཡུལ།
 layout: default
-modal-id: 7
+modal-id: 77
 date: 2014-07-18
 img: mission-bo.png
 alt: mission-image
