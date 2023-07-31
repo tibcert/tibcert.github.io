@@ -212,15 +212,20 @@ header .intro-text .skills {
   border: none;
   outline: none;
   color: white;
-     padding-top: 10.5px;
+     padding-top: 19.5px;
     padding-bottom: 19.5px;
   background-color: inherit;
-
 }
+
+[lang="bo"] .dropdown .dropbtn{
+    padding-top: 10.5px;
+}
+
 .dropdown .dropdown-content{display: none}
 .dropdown:hover .dropdown-content{
   display: block;
 }
+
 
 /*----------------- end dropdown nav ---------------- */
 section {
