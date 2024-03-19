@@ -36,9 +36,9 @@ title: ཡ་ལན་ཚན་པ།
       <table class="table">
          <tr>
           <td>
-            <img class="img-fluid img-thumbnail " src="{{site.baseurl}}/img/pictures/dhasa/Pelyon-Drokmo.jpeg" alt="dss">
-            <p>བསྟན་འཛིན་དཔལ་ཡོན།</p>
-            <i>གྲོགས་མོ་ཚོགས་པ་གསར་འཛུགས་མཁན།</i>
+            <img class="img-fluid img-thumbnail " src="{{site.baseurl}}/img/pictures/dhasa/sonam-phuntsok.jpeg" alt="dss">
+            <p>བསོད་ནམས་ཕུན་ཚོགས</p>
+            <i>སྨོན་ལམ་མི་བཟོས་རིགས་ནུས།</i>
           </td>
           <td>
             <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/LobsangDhamchoe-LHA.jpeg" alt="">
@@ -55,13 +55,13 @@ title: ཡ་ལན་ཚན་པ།
             <p>བསྟན་འཛིན་ཆོས་སྒྲོན།</p>
             <i>རང་མོས་ལས་རིགས།</i>
           </td>
-        </tr>
-        <tr>
-          <td>
+           <td>
             <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/Nyeesang wangpo-TMAI.jpeg" alt="">
             <p>ཉིན་བཟང་དབང་པོ།</p>
             <i>སྨན་རྩིས་ཁང་།</i>
           </td>
+        </tr>
+        <tr>
           <td>
             <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/SangjeDondup-TMS.jpeg" alt="">
             <p>སངས་རྒྱས་དོན་གྲུབ།</p>
@@ -71,6 +71,16 @@ title: ཡ་ལན་ཚན་པ།
             <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/TenzinChoezin-Library.jpeg" alt="">
             <p>བསྟན་འཛིན་ཆོས་འཛིན།</p>
             <i>བོད་ཀྱི་དཔེ་མཛོད་ཁང་།</i>
+          </td>
+           <td>
+         <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/tenzin-lekdhen.jpeg" alt="">
+            <p>བསྟན་འཛིན་ལེགས་ལྡན།</p>
+            <i>བོད་རང་བཙན་སློབ་ཕྲུག་ཚོགས་པ།</i>
+          </td>
+          <td>
+            <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/rinchen-dorjee.jpeg" alt="">
+            <p>རིན་ཆེན་རྡོ་རྗེ།</p>
+            <i>བོད་རང་བཙན་སློབ་ཕྲུག་ཚོགས་པ།</i>
           </td>
         </tr>
         <br>

@@ -42,9 +42,9 @@ A volunteer based community platform under TibCERT, which is built on the struct
       <table class="table">
          <tr>
       		<td>
-      			<img class="img-fluid img-thumbnail " src="{{site.baseurl}}/img/pictures/dhasa/Pelyon-Drokmo.jpeg" alt="dss">
-      			<p>Tenzin Pelyoun</p>
-      			<i>Drokmo - Co-founder</i>
+      			<img class="img-fluid img-thumbnail " src="{{site.baseurl}}/img/pictures/dhasa/sonam-phuntsok.jpeg" alt="dss">
+      			<p>Sonam Phuntsok</p>
+      			<i>MonlamAI</i>
       		</td>
       		<td>
       			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/LobsangDhamchoe-LHA.jpeg" alt="">
@@ -61,13 +61,13 @@ A volunteer based community platform under TibCERT, which is built on the struct
             <p>Tenzin Choedon</p>
             <i>Freelance</i>
           </td>
+          <td>
+            <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/Nyeesang wangpo-TMAI.jpeg" alt="">
+            <p>Nyeesang Wangmo</p>
+            <i>Mentseekhang (TMAI) - Sys-Admin</i>
+          </td>
       	</tr>
       	<tr>
-      		<td>
-      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/Nyeesang wangpo-TMAI.jpeg" alt="">
-      			<p>Nyeesang Wangmo</p>
-      			<i>Mentseekhang (TMAI) - Sys-Admin</i>
-      		</td>
       		<td>
       			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/SangjeDondup-TMS.jpeg" alt="">
       			<p>Sangje Dondup</p>
@@ -78,6 +78,16 @@ A volunteer based community platform under TibCERT, which is built on the struct
       			<p>Tenzin Choezin</p>
       			<i>Tibetan library (LTWA)</i>
       		</td>
+          <td>
+            <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/tenzin-lekdhen.jpeg" alt="">
+            <p>Tenzin Lekdhen</p>
+            <i>SFTIndia - Campaigns Director</i>
+          </td>
+          <td>
+            <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/rinchen-dorjee.jpeg" alt="">
+            <p>Rinchen Dorjee</p>
+            <i>SFTIndia - Program Coordinator</i>
+          </td>
       	</tr>
 
       	
