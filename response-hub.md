@@ -50,12 +50,7 @@ A volunteer based community platform under TibCERT, which is built on the struct
       			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/LobsangDhamchoe-LHA.jpeg" alt="">
       			<p>Lobsang Dhamchoe</p>
       			<i>LHA Charitable Trust</i>
-      		</td>
-      		<td>
-      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/NgawangTashi -Graduate.jpeg" alt="">
-      			<p>Ngawang Tashi</p>
-      			<i>College Graduate</i>
-      		</td>
+      		</td>	
       		  <td>
             <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/Choedon-Drokmo.jpeg" alt="">
             <p>Tenzin Choedon</p>

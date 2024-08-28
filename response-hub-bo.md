@@ -45,11 +45,6 @@ title: ཡ་ལན་ཚན་པ།
             <p>བློ་བཟང་དམ་ཆོས། </p>
             <i>ལྷ་སྤྱི་ཚོགས་ཞབས་ཞུ།</i>
           </td>
-          <td>
-            <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/NgawangTashi -Graduate.jpeg" alt="">
-            <p>ངག་དབང་བཀྲ་ཤིས།</p>
-            <i>སློབ་ཆེན་སློབ་ཐོན་པ།</i>
-          </td>
             <td>
             <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/dhasa/Choedon-Drokmo.jpeg" alt="">
             <p>བསྟན་འཛིན་ཆོས་སྒྲོན།</p>
