@@ -183,11 +183,6 @@ title: ཡ་ལན་ཚན་པ།
             <p>དགེན་ལྷུན་འགྲུབ་རྡོ་རྗེ།</p>
             <i>འབྲས་སྤུངས་བློ་གསལ་གླིང་གི་སློབ་མ།</i>
           </td>
-          <td>
-            <img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/mundgod/ngawang-sangye.jpeg" alt="">
-            <p>དགེན་ངག་དབང་སེང་གེ</p>
-            <i>འབྲས་སྤུངས་བླ་སྤྱིའི་རྩིས་གཉེར།</i>
-          </td>
         </tr>
       </table>
     </div>

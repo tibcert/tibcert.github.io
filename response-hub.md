@@ -192,11 +192,6 @@ A volunteer based community platform under TibCERT, which is built on the struct
       			<p>Gen Lhundup Dorjee</p>
       			<i>Student, Drepung Loseling</i>
       		</td>
-      		<td>
-      			<img class="img-fluid img-thumbnail" src="{{site.baseurl}}/img/pictures/mundgod/ngawang-sangye.jpeg" alt="">
-      			<p>Gen Ngawang Sangye</p>
-      			<i>Accounting Secretary, Drepung Lachi</i>
-      		</td>
       	</tr>
 
       </table>
