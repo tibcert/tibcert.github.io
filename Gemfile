@@ -6,7 +6,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.1"
   gem "jekyll-feed", "~> 0.9.2"
   gem "jemoji", "~> 0.8"
-  gem "bundler", "~> 2.3.20"
+  gem "bundler", "~> 2.5.18"
   gem 'rake', '~> 13.0'
   gem 'jekyll-gist', '~> 1.5'
   gem 'nokogiri', '~> 1.8', '>= 1.8.5'
