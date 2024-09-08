@@ -7,7 +7,7 @@
     <section class="" id="membership">
         <div class="container container-page">
             <div class="row">
-                <div class="col-lg-12 text-center">
+                <div class="col-lg-12 text-center heading">
                     <h2>{{page.title}}</h2>
                     <img src="/img/pata2-green.png" alt="">
                 </div>
